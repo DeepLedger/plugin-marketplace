@@ -238,15 +238,9 @@
       }
     },
     "deepledger": {
-      "sha": "28a0e6db03610404101ead989a0993a5cac6062a",
-      "version": "2.3.1",
+      "sha": "d703a291ed49f4de87c125d587b67471d8af89e1",
+      "version": "3.0.0",
       "components": {
-        "hooks": [
-          {
-            "name": "PreToolUse",
-            "description": "qbExpense|qbBill|qbBillPayment|qbInvoice|qbSalesReceipt|qbReceivePayment|qbDeposit|qbJournalEntry|qbTransfer|qbRefundRe…"
-          }
-        ],
         "mcpServers": [
           {
             "name": "deepledger",
@@ -255,48 +249,8 @@
         ],
         "skills": [
           {
-            "name": "accounts-payable",
-            "description": "Manage accounts payable — enter bills, pay vendors, apply vendor credits, monitor aging, and track outstanding obligati…"
-          },
-          {
-            "name": "accounts-receivable",
-            "description": "Manage accounts receivable — create invoices, receive payments, apply credits, monitor aging, and follow up on overdue…"
-          },
-          {
-            "name": "audit-preparation",
-            "description": "Prepare an audit or review evidence packet, supporting schedules, transaction support index or missing-document list. U…"
-          },
-          {
-            "name": "bank-feed-processing",
-            "description": "Process bank feed transactions — categorize, match, record, or flag for review using QB history and the consistency rul…"
-          },
-          {
-            "name": "bank-reconciliation",
-            "description": "Prepare a bank or credit-card reconciliation workbook, investigate statement differences, or help complete matching and…"
-          },
-          {
-            "name": "client-onboarding",
-            "description": "Onboard a newly connected client — assess the books, seed policies/patterns/general memory from QuickBooks history with…"
-          },
-          {
-            "name": "financial-analysis",
-            "description": "Analyze financial performance, cash movements, report comparisons or budget variances using comparable QuickBooks figur…"
-          },
-          {
-            "name": "journal-entries",
-            "description": "Manage the general ledger — record journal entries, adjusting entries, transfers, and corrections. Use when the user me…"
-          },
-          {
-            "name": "master-data",
-            "description": "Manage QuickBooks master data — look up, create, or update accounts, vendors, customers, items, classes, and tax rates.…"
-          },
-          {
-            "name": "month-end-close",
-            "description": "Prepare a month-end close using the shared DeepLedger procedure and Close Sheet contract. Use when the user asks to clo…"
-          },
-          {
-            "name": "record-transactions",
-            "description": "Record a transaction using the shared DeepLedger procedure for tool selection, duplicate checks, approval, recording an…"
+            "name": "bookkeeping",
+            "description": "Bookkeeping for QuickBooks Online through the DeepLedger MCP server. Use for any accounting request — recording payment…"
           }
         ]
       }
