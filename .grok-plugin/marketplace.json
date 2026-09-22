@@ -377,7 +377,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/DeepLedger/deepledger-plugin.git",
-        "sha": "5f1411e7f119c2fbb2fa46bd11f3091e2d51ef3e"
+        "sha": "1d9bd5d6de4a8594569ed58b68c2f113968ec342"
       },
       "homepage": "https://deepledger.ai",
       "keywords": ["deepledger", "deep ledger", "deepledger quickbooks", "deepledger bookkeeping", "deepledger mcp"],
