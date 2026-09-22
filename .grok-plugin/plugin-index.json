@@ -238,8 +238,8 @@
       }
     },
     "deepledger": {
-      "sha": "4b6846d571a93e91ec5aabe31d7760ff918f3290",
-      "version": "3.1.1",
+      "sha": "003bc449b670b5e5249149a466bab598f9e6da1a",
+      "version": "3.1.2",
       "components": {
         "mcpServers": [
           {

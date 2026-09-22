@@ -372,12 +372,12 @@
     },
     {
       "name": "deepledger",
-      "description": "AI bookkeeping for QuickBooks Online via DeepLedger (hosted MCP server + one bookkeeping skill that pulls the current procedure from the server). Record transactions with duplicate checks and human review, process the bank feed, reconcile statements, run financial reports, and prepare the month-end close. Sign in with your DeepLedger account on first connect.",
+      "description": "DeepLedger is an AI staff accountant for QuickBooks Online (hosted MCP server + bookkeeping skill). Ask in plain language and it categorizes and records bank feed transactions with duplicate checks, handles bills, invoices and payments, prepares reconciliations and the month-end close, runs reports and analysis, and escalates anything uncertain to a human reviewer. For business owners, bookkeepers and CPA firms; one sign-in reaches every QuickBooks company you can open.",
       "category": "productivity",
       "source": {
         "source": "url",
         "url": "https://github.com/DeepLedger/deepledger-plugin.git",
-        "sha": "4b6846d571a93e91ec5aabe31d7760ff918f3290"
+        "sha": "003bc449b670b5e5249149a466bab598f9e6da1a"
       },
       "homepage": "https://deepledger.ai",
       "keywords": ["deepledger", "deep ledger", "deepledger quickbooks", "deepledger bookkeeping", "deepledger mcp"],
